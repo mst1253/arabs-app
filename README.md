@@ -1,8 +1,11 @@
-# React + Vite
+# React + Vite + firebase + express js (creating api)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Intro: this project is about introducing arabs and non-arabs about cetain things in arabs history including some acheivments besides general info about arab countries and the website also provide a service to help visitors to get to know to the country or city that the wanna visite now or in the future by the peaple who lives in that country/city
 
-Currently, two official plugins are available:
+#React v18.2.0: i used it as large library to contain my project structions to build a single page app with certain libraries for animations and so on bisdes vite tool for better response/performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Firabse v10.10.0: i used it as a database to the users info.
+
+#ExpressJs v4.19.2: i used it as a back end tool to create a restfull api for arab countries data and connected with the front end using react query library.
+
+finally:the project is still small,needs improvement to include many languges instead of englich and arabic only with many services.
