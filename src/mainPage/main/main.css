@@ -1,0 +1,141 @@
+
+.all_sections{
+    display:grid;
+    place-items: center;
+    gap:2em;
+}
+
+p{
+    font-size:14px;
+} 
+.sub-titles{
+    font-size:1.5em;
+}
+.container{
+    display:grid;
+    place-items: center;
+    gap:1em;
+}
+.about_arabs{
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+ gap:1em;
+}
+.arabs-card{
+    display:flex;
+    justify-content: space-between;
+    width:200px;
+    height:100px;
+   box-shadow: 0 0 3px white;
+  overflow: hidden;
+  h2{
+    padding:.3em;
+    font-size:16px;
+  }
+  p{
+    font-size:11px;
+  }
+}
+.left_side{
+    width:100px;
+    height:100px;
+    border-top-right-radius:100%;
+}
+
+@media (max-width:768px) {
+    .arabs-card{
+        flex:0 0 100%
+    }
+    .arabSientist,.countries_router{
+        display:grid !important;
+        grid-template-columns:1fr !important;
+    }
+}
+.arabs_history{
+    display:flex;
+    gap:1em;
+    justify-content: space-evenly;
+}
+dialog{
+    width:100vw;
+    height:100vh;
+    background:black;
+    margin:0 auto;
+    section{
+       display:grid;
+       place-items: center;
+       width:100%;
+       height:100%;
+        button{
+            position: absolute;
+            bottom:0;
+            z-index:1;
+            color:white;
+        }
+        .countries_info{
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            width:100%;
+            height:100%;
+            
+        }
+    }
+}
+
+
+.countries_histo{
+    display:grid;
+    width:50%;
+}
+.arabSientist{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    place-items: center;
+    gap:1em;
+    .card{
+        padding:1em;
+        box-shadow: 0 0 3px white;
+        .info_about{
+           display:grid;
+           grid-template-columns:1fr 1fr 1fr;
+           gap:1em;
+           span{
+            padding:.5em;
+            box-shadow:0 0 3px white;
+            border-radius: 100px;
+            font-size:10px;
+         }
+         span:hover{
+            background:rgb(114, 112, 112);
+         }
+         img{
+            border-radius: 50%;
+         }
+        }
+        h3{
+          font-size:16px;
+           direction: rtl;
+        }
+        
+    }
+}
+.countries_router{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    .router{
+        display:grid;
+        p{
+            color:black
+        }
+    }
+}
+ 
+.col{
+    display:grid;
+    place-items:center; 
+    p{
+        text-align: center;
+    }
+}

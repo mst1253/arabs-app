@@ -1,0 +1,24 @@
+*{
+    font-family:'Almarai,sans-serif'
+}
+
+.hero{
+  gap:2em;
+  padding:2em;
+}
+
+.cards{
+    display:flex;
+    flex-direction: row;
+    gap:1em;
+}
+.bg-card{
+    width:100px;
+    height:100px
+}
+.bg-card:hover{
+    transform: scale(1.1);
+}
+button{
+    border-radius:100px;
+}
