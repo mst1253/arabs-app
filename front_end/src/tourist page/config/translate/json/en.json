@@ -1,0 +1,68 @@
+{
+    "btn1": "Help Tourists",
+    "contact": "Contact Information",
+    "about": "Do you know us?",
+    "home": "Home",
+    "welcom": "Welcome to Arab History",
+    "opening": "Arab history reflects a diversity and a great heritage that extends through the ages. From ancient times to modern times, the region inhabited by the Arabs has witnessed a significant influence on the course of human civilization. Arabs are an integral part of human history, where their civilization flourished and great Arab states and empires were founded.",
+    "btn2":"more",
+    "aboutUs": "Overview of what our site offers?",
+    "p1": "History is important for nations to know, but who will talk about the present? Here comes the second role of our site, which is to introduce the tourist to the city he is going to visit, educate him, and this is done by the resident of that city itself.",
+    "p2": "Just as history mentions nations, we will mention some of the history of Arab countries.",
+    "p3": "On this site, we try to shed light on Arab history and dust off the history passed down by nations.",
+    "whoAreArabs": "who are the arabs?",
+    "p4": "Arabs are a historical ethnic group with rich cultural, linguistic, and historical diversity. Arabs are found in the Middle East and North Africa, speaking the Arabic language. Arabic is considered one of the richest languages ​​in terms of literature, poetry, and philosophy, and Arab culture is known for its diversity and multiple facets, including traditional clothing, music, arts, customs, and traditions. Historically, ancient Arab civilizations made significant contributions to science, philosophy, mathematics, and medicine, making Arabs influential in human history.",
+    "arabsSpec": "Arabs in Various Fields",
+    "h1":"in sience",
+    "inSience": [
+        "Before the advent of Islam, Arabs had important contributions in the field of science",
+        "They worked in fields such as mathematics, astronomy, medicine, and philosophy",
+        "Cities like Mecca, Medina, and Yarmouk were vital centers of science and education",
+        "After the advent of Islam, science flourished even more due to encouragement of scientific research and education. Scientific centers like the House of Wisdom in Baghdad emerged",
+        "These centers became hubs for exchanging knowledge and scientific thought between Arabs and the Islamic world",
+        "Among the prominent Arab scientists who enriched scientific history are the Arab philosopher Ibn Sina, the Arab mathematician Al-Khwarizmi, and the Arab scientist Jabir ibn Hayyan",
+        "Thanks to important scientific contributions, Arab and Islamic scientific culture had a significant impact on the development of sciences from medieval times to the present day"
+    ],
+    "h2":"in religion",
+    "inRelegion": [
+        "After the advent of Islam, Arab culture changed significantly. Islam became the dominant religion and the basic rule of daily life for Arabs",
+        "New values emerged, represented in justice, tolerance, and cooperation, and these values became an integral part of Arab identity",
+        "Islamic architecture evolved to include mosques, schools, and palaces that reflect unique architectural arts and traditions",
+        "It still has a significant influence today on the lives of Arabs and Muslims around the world. Islam left its mark on many cultural, social, and economic areas"
+    ],
+    "h3":"in culture",
+    "inCulture": [
+        "Arab culture in the past was rich and diverse. Poetry and literature played a major role in Arab culture",
+        "Arab culture was influenced by many ancient civilizations such as Greek and Persian civilizations",
+        "It flourished in sciences, arts, and philosophy before the advent of Islam",
+        "Where poetry was considered a means of expressing feelings, thoughts, and wisdom"
+    ],
+    "h4":"in politics",
+    "inPolit": [
+        "Before the advent of Islam, politics among Arabs was linked to tribes and clans",
+        "Where the tribe followed its leader who ruled it in a traditional and hereditary manner",
+        "There were constant conflicts between tribes to control resources and lands, and wars were common",
+        "After the advent of Islam, Arab politics changed significantly",
+        "The Islamic state was founded on the basis of justice and consultation, where the ruler is chosen with the consent of the people or by the consultation of scholars and political leaders",
+        "Arab politics was influenced by Islamic values ​​such as justice, tolerance, and human rights, and these values ​​remained the reference for governance and politics in the Islamic world"
+    ],
+    "p5": "Arab countries are waiting for you to get to know them. Enter now, what are you waiting for?",
+    "btn3": "Read Now",
+    "image":"add image",
+    "inp1":"Your fullName",
+    "inp2":"Title of your service",
+    "inp3":"Tell us about yourself ?",
+    "inp4":"Email",
+    "inp5":"Phone Number",
+    "inp6":"Your country's name",
+    "inp7":"Your city's name",
+    "btn4":"add",
+    "btn5":"contact me",
+    "sNameAl":["Al-Khwarizmi", "Jabir ibn Hayyan", "Abbas ibn Firnas"],
+    "sBioAl": [
+        "Abbas ibn Firnas was an Arab mathematician, astronomer, and physicist who lived in the 8th century AD. He is considered one of the most prominent mathematicians and astronomers in Islamic history, and he made significant contributions to the development of both fields.",
+        "Jabir ibn Hayyan was a Muslim chemist from the 8th century AD. He is considered the father of chemistry for his development of this science and its transformation into an organized experimental science. He wrote many books and manuscripts that greatly influenced the development of chemistry.",
+        "Abu Abdullah Muhammad ibn Musa al-Khwarizmi was a Muslim mathematician and astronomer from the 9th century. He is known as the \"Father of Algebra\" for his significant contributions to the development of this field. One of his most famous works is the book \"The Compendious Book on Calculation by Completion and Balancing\"."
+    ],
+    "exp":["Chemistry", "Pharmacy", "Metallurgy", "Mathematics", "Astronomy", "Geography", "Physics"]
+}
