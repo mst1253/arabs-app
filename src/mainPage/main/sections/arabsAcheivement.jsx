@@ -4,7 +4,7 @@ export default function ArabsAcheivement(){
     return(
           <div className="container arabSientist p-4 text-white">
          <div className="card bg-dark">
-            <img src="src\mainPage\assets\th.jpg" alt="الخوارزمي" />
+            <img src="../../../public/assets/th.jpg" alt="الخوارزمي" />
                  <div className="card-body">
                  <h3 className="card-title text-primary p-2">{t(`sNameAl.${0}`)}</h3>
                   <p className="card-text">{t(`sBioAl.${2}`)}</p>
@@ -16,7 +16,7 @@ export default function ArabsAcheivement(){
               </div>
         </div>
         <div className="card bg-dark">
-        <img src="src\mainPage\assets\7.jpg" alt="جابر بن حيان" />
+        <img src="../../../public/assets/7.jpg" alt="جابر بن حيان" />
             <div className="card-body">
             <h3 className='card-title  text-primary p-2'>{t(`sNameAl.${1}`)}</h3>
             <p className="card-text">{t(`sBioAl.${1}`)}</p>
@@ -28,7 +28,7 @@ export default function ArabsAcheivement(){
             </div>
         </div>
         <div className="card bg-dark">
-        <img src="src\mainPage\assets\6.jpg" alt="عباس بن فرناس" />
+        <img src="../../../public/assets/6.jpg" alt="عباس بن فرناس" />
             <div className="card-body">
                <h3 className='card-title text-primary p-2'>{t(`sNameAl.${2}`)}</h3>
                <p className="card-text">{t(`sBioAl.${0}`)}</p>

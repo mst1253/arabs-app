@@ -2,7 +2,7 @@ import {useTranslation} from 'react-i18next'
 import Lottie from 'lottie-react'
 import { Link } from 'react-router-dom'
 import {Element} from 'react-scroll'
-import animation from '../../assets/animation/Animation - 1711550837499.json'
+import animation from '../../../../public/assets/animation/Animation - 1711550837499.json'
 export default function CountriesRouter(){
     const {t}=useTranslation()
    return(
