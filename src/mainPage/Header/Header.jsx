@@ -6,14 +6,14 @@ import { Link as ScrollLink } from 'react-scroll';
 import './Header.css';
 export default function Header(){
   const { t, i18n } = useTranslation();
-  const [bg,setBg]=useState('url(../../../public/assets/4.avif) no-repeat center/cover');
+  const [bg,setBg]=useState('url(/assets/4.avif) no-repeat center/cover');
     switch (bg) {
     case 'img1':
-      return setBg(prev=>prev='url(../../../public/assets/1.webp) no-repeat center/cover')
+      return setBg(prev=>prev='url(/assets/1.webp) no-repeat center/cover')
     case 'img2':
-      return setBg(prev=>prev='url(../../../public/assets/2.webp) no-repeat center/cover');
+      return setBg(prev=>prev='url(/assets/2.webp) no-repeat center/cover');
     case 'img3':
-      return setBg(prev=>prev='url(../../../public/assets/3.webp) no-repeat center/cover')
+      return setBg(prev=>prev='url(/assets/3.webp) no-repeat center/cover')
     default:
       break;
    }
@@ -54,15 +54,15 @@ export default function Header(){
         </div>
         <div className="cards">
             <div className="card bg-card" 
-            style={{background:'url(../../../public/assets/1.webp) no-repeat center/cover'}}
+            style={{background:'url(/assets/1.webp) no-repeat center/cover'}}
             onClick={()=>setBg('img1')}>
             </div>
             <div className="card bg-card" 
-            style={{background:'url(../../../public/assets/2.webp) no-repeat center/cover'}}
+            style={{background:'url(/assets/2.webp) no-repeat center/cover'}}
             onClick={()=>setBg('img2')}>
             </div>
             <div className="card bg-card" 
-            style={{background:'url(../../../public/assets/3.webp) no-repeat center/cover'}}
+            style={{background:'url(/assets/3.webp) no-repeat center/cover'}}
             onClick={()=>setBg('img3')}>
             </div>
           </div>
