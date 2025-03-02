@@ -10,4 +10,4 @@
 
 finally:the project is still small,needs improvement to include many languges instead of englich and arabic only with many services.
 
-https://arabs-app-git-master-msts-projects-bfa80161.vercel.app/
+website in live:https://arabs-64gv6o204-msts-projects-bfa80161.vercel.app/
