@@ -208,5 +208,5 @@ const arabCountries = [
 app.get('/arabsApi',(req,res)=>{
     res.json(arabCountries)
 })
-const port = process.env.PORT || 3000;
-app.listen(port,console.log('http://localhost:3000'))
+const port = process.env.PORT || 8080;
+app.listen(port,console.log('http://localhost:4000'))
