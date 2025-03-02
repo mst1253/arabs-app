@@ -7,7 +7,7 @@ export default function Countries_History(){
     const [modernA,setModernA]=useState('');
     const {data}=useQuery({
         queryKey:['countrie_data'],
-        queryFn:()=>fetch('http://localhost:3000/arabsApi').then(res=>res.json())
+        queryFn:()=>fetch('https://back-end-production-e1b0.up.railway.app/arabsApi').then(res=>res.json())
     })
     const addData=(s1,s2,s3,s4)=>{
         setDesk(s1); 
