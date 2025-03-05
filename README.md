@@ -1,6 +1,6 @@
 # React + Vite + firebase + express js (creating api)
 
-#Intro: this project is about introducing arabs and non-arabs about cetain things in arabs history including some acheivments besides general info about arab countries and the website also provide a service to help visitors to get to know to the country or city that the wanna visite now or in the future by the peaple who lives in that country/city
+#Intro: this project is about introducing arabs and non-arabs about cetain things in arabs history including some acheivments besides general info about arab countries and the website also provide a service to help visitors to get to know the country or city that the wanna visite now or in the future by the peaple who lives in that country/city
 
 #React v18.2.0: i used it as large library to contain my project structions to build a single page app with certain libraries for animations and so on bisdes vite tool for better response/performance.
 
